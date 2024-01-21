@@ -1,6 +1,7 @@
 ## CRACK FB FREE FULL IJO
 ### PERINTAH 
-```pkg update
+```
+pkg update
 pkg upgrade
 pkg install python
 git clone https://github.com/foxdev88/CRACKFBFREE
